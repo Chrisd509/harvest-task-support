@@ -7,3 +7,5 @@ Feel free to reach out by email to report any bugs or sugesstion:
 [contaclogivital@gmail.com](mailto:contaclogivital@gmail.com)
 
 I aim to respond as quickly as possible. Thank you for using Harvest Task!
+
+© 2024–2025 Chris D. Harvest Task. All rights reserved.
